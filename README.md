@@ -39,3 +39,4 @@ CINEIQ_Project/
 * Above cmnds in bash 
 ## Note
 * Since the abovve code involves an api call to tmdb's server have to use vpn(network blocks the site)
+* extract app.py and api.py files from the folder
