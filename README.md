@@ -37,3 +37,5 @@ CINEIQ_Project/
 * Backend initialisation (uvicorn api:app)
 * Frontend initialisation (streamlit run app.py)
 * Above cmnds in bash 
+## Note
+* Since the abovve code involves an api call to tmdb's server have to use vpn(network blocks the site)
